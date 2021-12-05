@@ -12,7 +12,9 @@ defmodule Scraper do
       :world
 
   """
-  def hello do
-    :world
+
+  def main do
+
   end
+
 end
